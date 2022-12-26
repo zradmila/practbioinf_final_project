@@ -1,0 +1,6 @@
+Sequence   		tRNA 	Bounds	tRNA	Anti	Intron Bounds	Inf	Isotype	Isotype	      
+Name       	tRNA #	Begin	End  	Type	Codon	Begin	End	Score	CM	Score	Note
+--------   	------	-----	------	----	-----	-----	----	------	-------	-------	------
+fragment12 	1	40001	40073	Lys	CTT	0	0	78.2	Lys	93.8	
+fragment12 	2	44174	44246	Lys	CTT	0	0	53.2	Phe	64.9	IPD:-4.40
+fragment12 	3	79306	79234	Thr	AGT	0	0	79.8	Thr	94.6	
